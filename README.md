@@ -28,7 +28,13 @@ Performed preprocessing of the message field in the JSON data coming from the PO
 Summary of different models experimented with:-
 
 Logistic Regression  -> 91.077 %
+
+
 Naive Bayes classifier -> 84.319 %
+
+
 Support Vector Machine -> 92.001 %
+
+
 Text embeddings -> 15.82%
 
