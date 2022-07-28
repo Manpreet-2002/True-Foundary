@@ -1,5 +1,8 @@
 # True-Foundary
 Sentiment Analysis Binary Classification
+
+
+
 Sentiment Analysis API
 1) -> Preprocessing of textual data
 Casing -> converting to lower case
