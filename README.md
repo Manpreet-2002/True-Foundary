@@ -4,7 +4,7 @@
 
 (Code is available in the ```Model``` folder in ```venv```)
 
-Technologies used- Fast API for building the API server, Postman for testing the API, ML libraries used were scikit learn and tensorflow.
+Technologies used- Fast API for building the API server, Postman for testing the API, ML libraries used were ```scikit learn``` and ```tensorflow```.
 
 
 Experimented with various algorithms like logistic regression, Naive Bayes classifier, Support Vector Machine and Word2vec. SVM had the highest accuracy (92%) and SVM model was built.
@@ -13,7 +13,7 @@ Experimented with various algorithms like logistic regression, Naive Bayes class
 The Fast API server takes in a JSON data object with a message key, on the ‘/predict’ endpoint and returns the sentiment associated with the message’s value. 
 
 
-The sentiment can have two possible values - positive or negative.
+The sentiment can have two possible values - positive or negative. After running the algorithm, the API sends a JSON resposne with the sentiment key and value.
 
 
 
