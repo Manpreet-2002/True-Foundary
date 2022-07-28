@@ -1,11 +1,11 @@
 ## True-Foundary
-#Sentiment Analysis Binary Classification
+# Sentiment Analysis Binary Classification
 
 
-Code is available in the ```Model``` folder in ```venv```
+(Code is available in the ```Model``` folder in ```venv```)
 
 
-#Sentiment Analysis API
+# Sentiment Analysis API
 1) -> Preprocessing of textual data
 Casing -> converting to lower case
 Denosiing -> removing URLs, ‘#’, ‘@’, RT, punctuations, and emojis
