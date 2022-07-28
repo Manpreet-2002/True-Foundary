@@ -1,0 +1,11 @@
+Include
+Lib
+Scripts
+share
+Model/__pycache__
+Model/.ipynb_checkpoints
+Model/airline_sentiment_analysis.csv
+pyvenv.cfg
+Model/Emoji_Dict.p
+Model/model_pickle
+Model/vectorizer.pickle
