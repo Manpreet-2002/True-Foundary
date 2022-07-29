@@ -67,3 +67,4 @@ class Preprocess_Message():
         lemma_words = [lemmatizer.lemmatize(w, pos='a') for w in stemmed_words]
         
         return " ".join(lemma_words)
+
